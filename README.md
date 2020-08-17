@@ -1,4 +1,4 @@
-# AwTodo (awtodo)
+# Awesome Todo (awtodo)
 
 A Todo app built with Vuejs Vuex and Firebase
 
